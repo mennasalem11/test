@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+}
+
+.row {
+    margin-block: 20px;
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.sidebar li {
+    text-align: center;
+    padding: 10px 5px;
+}
+
+.sidebar a {
+    text-decoration: none;
+}
+
+form {
+    width: 550px;
+}
