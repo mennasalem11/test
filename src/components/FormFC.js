@@ -11,6 +11,7 @@ function FormFC() {
       nameData,
       passwordData,
       genderData,
+      
     });
   };
 
